@@ -1,7 +1,7 @@
 # Primeros pasos con Git y GitHub
 Descubre los fundamentos de Git y GitHub con tutoriales prácticos y recursos esenciales. Ideal para principiantes y aquellos que buscan fortalecer sus habilidades en control de versiones y colaboración.
 
-#Capítulo 1: Fundamentos de Git 
+# Capítulo 1: Fundamentos de Git 
 
 1.1 ¿Qué es Git?
 
