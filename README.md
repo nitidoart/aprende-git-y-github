@@ -14,3 +14,7 @@ El propósito fundamental de Git es proporcionar un entorno flexible y potente p
 Diferencia entre Git y otros Sistemas de Control de Versiones
 
 A diferencia de otros sistemas de control de versiones centralizados, Git es distribuido, lo que significa que cada desarrollador tiene una copia completa del repositorio, incluido su historial. Esto proporciona autonomía y flexibilidad, permitiendo a los equipos trabajar de forma descentralizada y sin depender de una conexión constante al servidor central. Git destaca por su rapidez en operaciones clave, como la creación de ramas y la fusión de cambios, mejorando la eficiencia del desarrollo colaborativo.
+
+
+```ssh
+	git config --global user.name "dasdo"
