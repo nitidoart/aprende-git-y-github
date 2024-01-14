@@ -20,4 +20,4 @@ A diferencia de otros sistemas de control de versiones centralizados, Git es dis
 
 
 ```ssh
-	git config --global user.name "dasdo"
+	git config --global user.name "freeCodeCamp"
